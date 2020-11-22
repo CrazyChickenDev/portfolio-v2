@@ -1,15 +1,15 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Keylogger'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'https://github.com/CrazyChickenDev/My-Keylogger'
+external: 'https://github.com/CrazyChickenDev/My-Keylogger'
 tech:
-  - React
-  - Node.js
-  - Express
-  - Spotify Web API
+  - Python
+  - VSCode
+  - Linux OS
+  - Bash
 showInProjects: true
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A simply built keylogger created using python on a linux distro(Parrot OS) and used to record keystrokes made by users of the pc.

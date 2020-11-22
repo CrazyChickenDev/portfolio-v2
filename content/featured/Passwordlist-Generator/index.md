@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'Passwordlist'
+title: 'Passwordlist-Generator'
 cover: './passlist.png'
 github: 'https://github.com/CrazyChickenDev/Passwordlist-Generator'
 external: 'https://github.com/CrazyChickenDev/Passwordlist-Generator'

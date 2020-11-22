@@ -3,7 +3,7 @@ date: '3'
 title: 'GitHubProfile'
 cover: './profile.png'
 github: 'https://github.com/CrazyChickenDev/CrazyChickenDev'
-external: 'https://github.com/CrazyChickenDev/CrazyChickenDev'
+external: 'https://github.com/CrazyChickenDev'
 tech:
   - Git
   - Markdown

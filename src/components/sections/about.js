@@ -142,7 +142,7 @@ const About = () => {
     'PHP',
     'Linux',
     'Git',
-    '',
+    'Scripting',
   ];
 
   return (
