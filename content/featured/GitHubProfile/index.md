@@ -1,13 +1,13 @@
 ---
 date: '3'
-title: 'OctoProfile'
-cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+title: 'GitHubProfile'
+cover: './profile.png'
+github: 'https://github.com/CrazyChickenDev/CrazyChickenDev'
+external: 'https://github.com/CrazyChickenDev/CrazyChickenDev'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - Git
+  - Markdown
+  - VSCode
 showInProjects: true
 ---
 
