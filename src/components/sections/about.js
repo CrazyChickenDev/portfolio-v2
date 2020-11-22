@@ -141,19 +141,31 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Brittany, a software engineer based in Boston, MA.</p>
-
             <p>
-              I enjoy creating things that live on the internet, whether that be websites,
-              applications, or anything in between. My goal is to always build products that provide
-              pixel-perfect, performant experiences.
+              Hello! I'm Daniel, a computer engineer and cyber-security analyst based in Benin City,
+              NG.
             </p>
 
             <p>
-              Shortly after graduating from{' '}
-              <a href="https://www.ccis.northeastern.edu">Northeastern University</a>, I joined the
-              engineering team at <a href="https://www.upstatement.com">Upstatement</a> where I work
-              on a wide variety of interesting and meaningful projects on a daily basis.
+              I'm an open-source enthusiast with an interest in front-end web development and
+              currently a student from Nigeria. An ethical hacker, pentester, red-teamer and a
+              self-taught cyber-security analyst who loves being offensive. I have a profound
+              passion for programming, security researching, robotics and hardware. I enjoy creating
+              things that live both on the internet and in reality, whether that be websites,
+              applications, scripts, embedded systems or anything in between.
+            </p>
+
+            <p>
+              Shortly after I graduated Highschool, I became overly engrossed in the cyber-security
+              space and the vast amount of knowledge it holds. I decided to enrol for computer
+              engineering at<a href="https://www.uniben.edu"> University of Benin (UNIBEN)</a>, I
+              joined the developer team at<a href="https://www.muzzlab.com"> Muzzlab </a>where I
+              worked on a wide variety of interesting and meaningful projects as an Internet
+              Security Analyst. Some things you'll likely find me doing are working and creating
+              things with microcontrollers and implementing IoT in components, playing video games,
+              customising gadgets and finding vulnerabilities in systems. A goal of mine is to build
+              products that provide pixel-perfect, user-friendly, security efficient, performant
+              experiences. I go by the alter ego 'CrazyChickenDev or 0x00CCSec'.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
