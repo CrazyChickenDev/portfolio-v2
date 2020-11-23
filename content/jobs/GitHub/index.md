@@ -1,7 +1,7 @@
 ---
 date: '2020-10-23'
 title: 'GitHub Campus Expert'
-company: 'GitHub,Inc'
+company: 'GitHub'
 location: 'San Francisco, SF'
 range: 'October - Present 2020'
 url: 'https://githubcampus.expert/CrazyChickenDev/'
