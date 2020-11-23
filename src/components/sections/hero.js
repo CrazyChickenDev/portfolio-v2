@@ -49,11 +49,11 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Nwaobi Daniel.</h2>;
-  const three = <h3 className="big-heading">I love breaking into things.</h3>;
+  const three = <h3 className="big-heading">Eat Sleep Hack Repeat.</h3>;
   const four = (
     <p>
-      I'm a computer engineer based in Benin City, NG specializing in building (and occasionally
-      researching) exceptional websites, softwares, scripts and everything in between.
+      Computers have been keeping me awake for as long as I can remember. It all started with a
+      Windows XP Professional x64 Edition, 486DX, 512MB RAM, and 16384MB HDD.
     </p>
   );
   const five = (
