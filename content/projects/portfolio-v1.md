@@ -9,6 +9,7 @@ tech:
   - JS
   - React
   - VSCode
+  - Netlify
 showInProjects: true
 ---
 
