@@ -1,7 +1,7 @@
 ---
 date: '2020-09-25'
 title: 'Cyber-Security Intern'
-company: 'UNiTes Cisco Networking Academy'
+company: 'UNiTes'
 location: 'Lagos, NG (Remote)'
 range: 'September - November 2020'
 url: 'https://unitesict.com/'

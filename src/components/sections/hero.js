@@ -53,7 +53,7 @@ const Hero = () => {
   const four = (
     <p>
       Computers have been keeping me awake for as long as I can remember. It all started with a
-      Windows XP Professional x64 Edition, 486DX, 512MB RAM, and 16384MB HDD.
+      Windows XP (x32), P55C, 512MB RAM, and 16384MB HDD.
     </p>
   );
   const five = (
