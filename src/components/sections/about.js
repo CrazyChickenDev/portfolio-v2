@@ -169,8 +169,8 @@ const About = () => {
             <p>
               Shortly after I graduated Highschool, I became overly engrossed in the cyber-security
               space and the vast amount of knowledge it holds. I decided to enrol for computer
-              engineering at<a href="https://www.uniben.edu"> University of Benin (UNIBEN)</a>, I
-              joined the developer team at<a href="https://www.muzzlab.com"> Muzzlab </a>where I
+              engineering at <a href="https://www.uniben.edu"> University of Benin (UNIBEN)</a>, I
+              joined the developer team at <a href="https://www.muzzlab.com"> Muzzlab </a> where I
               worked on a wide variety of interesting and meaningful projects as an Internet
               Security Analyst. Some things you'll likely find me doing are working and creating
               things with microcontrollers and implementing IoT in components, playing video games,
