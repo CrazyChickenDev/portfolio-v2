@@ -29,7 +29,7 @@ const StyledLoader = styled.div`
       margin: 0 auto;
       fill: none;
       user-select: none;
-      #D {
+      #B {
         opacity: 0;
       }
     }
