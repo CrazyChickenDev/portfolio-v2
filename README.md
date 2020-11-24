@@ -17,7 +17,7 @@
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/CrazyChickenDev/portfolio-v2/main/src/images/demo.png)
 
 ## 🚨 Forking this repo (please read!)
 
