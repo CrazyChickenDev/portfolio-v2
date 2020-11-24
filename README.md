@@ -20,50 +20,69 @@
 ![demo](https://raw.githubusercontent.com/CrazyChickenDev/portfolio-v2/main/src/images/demo.png)
 
 If you have questions about implementation, please refer to the [Gatsby docs](https://www.gatsbyjs.org/docs/).
-
 Yes, you can fork this repo. Please give proper credits by linking back to [BrittanyChiang](https://github.com/bchiang7) also. Thanks!
 
-## 🛠 Installation & Set Up
+## 🛠Installation & Set Up
 
-1. Install the Gatsby CLI
+1.  **Install the Gatsby CLI**
 
-   ```sh
-   npm install -g gatsby-cli
-   ```
+    ```sh
+    npm install -g gatsby-cli
+    ```
 
-2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
+2.  **Install and switch to the correct version of Node using NVM**
 
-   ```sh
-   nvm install
-   ```
+    ```sh
+    nvm install
+    ```
 
-3. Install dependencies
+3.  **Install dependencies**
 
-   ```sh
-   yarn
-   ```
+    ```sh
+    yarn install
+    ```
 
-4. Start the development server
+4.  **Start the development server**
 
-   ```sh
-   npm start
-   ```
+    ```sh
+    yarn start
+    ```
 
-## 🚀 Building and Running for Production
+## 🚀Building and Running for Production
 
-1. Generate a full static production build
+In addition to the development server started with `yarn start`, you can also generate a full static production build and serve that to preview the site as it will appear once deployed:
 
-   ```sh
-   npm run build
-   ```
+```sh
+yarn build
+```
 
-1. Preview the site as it will appear once deployed
+```sh
+yarn serve
+```
 
-   ```sh
-   npm run serve
-   ```
+## 🧐What's inside?
 
-## 🎨 Color Reference
+A quick look at the top-level files and directories in this project.
+
+    .
+    ├── node_modules
+    ├── content
+    ├── public
+    ├── static
+    ├── src
+    ├── .gitignore
+    ├── .prettierrc
+    ├── gatsby-browser.js
+    ├── gatsby-config.js
+    ├── gatsby-node.js
+    ├── gatsby-ssr.js
+    ├── LICENSE
+    ├── package-lock.json
+    ├── package.json
+    ├── README.md
+    └── yarn.lock
+
+## 🎨Color Reference
 
 | Color          | Hex                                                                |
 | -------------- | ------------------------------------------------------------------ |
