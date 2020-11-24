@@ -2,7 +2,7 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/CrazyChickenDev/portfolio-v2/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  nwaobidaniel.me - v2
+  Portfolio-v2
 </h1>
 <p align="center">
   The second iteration of <a href="https://crazychickendev.netlify.app" target="_blank">nwaobidaniel.me</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
