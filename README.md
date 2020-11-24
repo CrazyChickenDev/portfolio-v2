@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   Previous iteration:
-  <a href="https://github.com/CrazyChickenDev/portfolio-v1" target="_blank">v1</a>,
+  <a href="https://github.com/CrazyChickenDev/portfolio-v1" target="_blank">v1</a>
 </p>
 <p align="center">
   <a href="https://app.netlify.com/sites/nwaobidaniel/deploys" target="_blank">
