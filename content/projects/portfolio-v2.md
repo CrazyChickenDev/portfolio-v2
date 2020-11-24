@@ -1,14 +1,14 @@
 ---
 date: '2020-11-21'
-title: 'Personal Website V2'
-github: 'https://github.com/CrazyChickenDev/portfolio-v2'
-external: 'https://nwaobidaniel.me/'
+title: 'Keylogger'
+github: 'https://github.com/CrazyChickenDev/My-Keylogger'
+external: 'https://github.com/CrazyChickenDev/My-Keylogger'
 tech:
-  - Gatsby
-  - Netlify
-  - JS
-  - Npm
+  - Python
+  - VSCode
+  - Linux OS
+  - Bash
 showInProjects: true
 ---
 
-Second iteration of my personal website. Designed and developed with Gatsby.Js and Netlify. Credit goes to [Brittany Chiang](https://github.com/bchiang7/v4) for her awesome v4 repository.
+A simply built keylogger created using python on a linux distro(Parrot OS) and used to record keystrokes made by users of the pc.
