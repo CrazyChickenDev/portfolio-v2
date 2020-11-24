@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'Portfolio v2'
-cover: './portfolio.png'
+cover: './demo.png'
 github: 'https://github.com/CrazyChickenDev/portfolio-v2'
 external: 'https://nwaobidaniel.me/'
 tech:
