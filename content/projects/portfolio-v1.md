@@ -10,6 +10,7 @@ tech:
   - React
   - VSCode
   - Netlify
+company: 'Personal'
 showInProjects: true
 ---
 
