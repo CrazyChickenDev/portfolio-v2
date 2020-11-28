@@ -4,6 +4,7 @@ title: 'Simple Document Scanner'
 github: 'https://github.com/CrazyChickenDev/SimpleDocumentScanner'
 external: ''
 ios: ''
+android: ''
 tech:
   - Python
   - VSCode
