@@ -1,8 +1,8 @@
 ---
 date: '2020-04-10'
 title: 'Simple Document Scanner'
-github: ''
-external: 'https://github.com/CrazyChickenDev/SimpleDocumentScanner'
+github: 'https://github.com/CrazyChickenDev/SimpleDocumentScanner'
+external: ''
 tech:
   - Python
   - VSCode
