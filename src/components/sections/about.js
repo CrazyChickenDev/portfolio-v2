@@ -180,8 +180,8 @@ const About = () => {
               <a href="https://instagram.com/illusiondecals">customising gadgets</a> and finding
               vulnerabilities in systems. A goal of mine is to build products that provide
               pixel-perfect, user-friendly, security efficient, performant experiences. I go by the
-              alter ego '<a href="https://t.me/CrazyChickendev">CrazyChickenDev</a>
-              or <a href="https://wa.me/message/Y4M4QSP6P3TPC1">0x00CCSec'</a>.
+              alter ego '<a href="https://t.me/CrazyChickendev">CrazyChickenDev</a> or{' '}
+              <a href="https://wa.me/message/Y4M4QSP6P3TPC1">0x00CCSec'</a>.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
