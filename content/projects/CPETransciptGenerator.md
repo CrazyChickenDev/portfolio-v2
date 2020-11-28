@@ -8,7 +8,7 @@ tech:
   - VSCode
   - MSWord
 company: 'UNIBEN'
-showInProjects: false
+showInProjects: true
 ---
 
 This program was designed to generate a .docx file which consists of students' result details, grading and remarks.

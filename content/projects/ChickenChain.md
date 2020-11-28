@@ -10,7 +10,7 @@ tech:
   - JS
   - VSCode
 company: 'Personal'
-showInProjects: false
+showInProjects: true
 ---
 
 An attempt to building a Blockchain and Cryptocurrency.

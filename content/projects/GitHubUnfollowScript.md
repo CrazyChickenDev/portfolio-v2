@@ -9,7 +9,7 @@ tech:
   - VSCode
   - Npm
 company: 'Personal'
-showInProjects: false
+showInProjects: true
 ---
 
 A github script that unfollows everyone you follow on your github account.
