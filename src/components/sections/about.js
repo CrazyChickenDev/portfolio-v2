@@ -145,7 +145,6 @@ const About = () => {
     'Jekyll',
     'Git-Pages',
     'Gatsby.js',
-    '',
   ];
 
   return (
