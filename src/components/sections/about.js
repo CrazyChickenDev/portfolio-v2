@@ -134,7 +134,7 @@ const About = () => {
 
   const skills = [
     'JavaScript',
-    'HTML & CSS',
+    'HTML5 & CSS3',
     'React',
     'Python',
     'Node.js',
@@ -142,7 +142,10 @@ const About = () => {
     'PHP',
     'Linux',
     'Git',
-    'Scripting',
+    'Jekyll',
+    'Git-Pages',
+    'Gatsby.js',
+    '',
   ];
 
   return (
