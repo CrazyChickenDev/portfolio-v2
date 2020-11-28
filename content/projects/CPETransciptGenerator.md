@@ -2,7 +2,7 @@
 date: '2020-06-20'
 title: 'CPE461 Transcript Generator'
 github: 'https://github.com/CrazyChickenDev/College-transcript-Generator'
-external: ''
+external: 'https://github.com/CrazyChickenDev/College-transcript-Generator'
 tech:
   - Python
   - VSCode

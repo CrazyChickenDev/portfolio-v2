@@ -2,7 +2,7 @@
 date: '2020-04-10'
 title: 'Simple Document Scanner'
 github: 'https://github.com/CrazyChickenDev/SimpleDocumentScanner'
-external: ''
+external: 'https://github.com/CrazyChickenDev/SimpleDocumentScanner'
 ios: ''
 android: ''
 tech:

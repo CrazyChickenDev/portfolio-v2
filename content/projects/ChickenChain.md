@@ -2,7 +2,7 @@
 date: '2020-06-14'
 title: 'ChickenChain'
 github: 'https://github.com/CrazyChickenDev/chickenchain'
-external: ''
+external: 'https://github.com/CrazyChickenDev/chickenchain'
 tech:
   - Node
   - HTML

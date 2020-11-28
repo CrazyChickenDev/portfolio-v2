@@ -2,7 +2,7 @@
 date: '2020-04-07'
 title: 'GitHub Unfollow Script'
 github: 'https://github.com/CrazyChickenDev/git_unfollow-followers'
-external: ''
+external: 'https://github.com/CrazyChickenDev/git_unfollow-followers'
 tech:
   - GitHub Cli
   - JavaScript

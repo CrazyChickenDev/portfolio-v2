@@ -2,7 +2,7 @@
 date: '2020-04-23'
 title: 'GitHub Node Script Hack'
 github: 'https://github.com/CrazyChickenDev/first-gitscript_node'
-external: ''
+external: 'https://github.com/CrazyChickenDev/first-gitscript_node'
 tech:
   - VSCode
   - Javascript

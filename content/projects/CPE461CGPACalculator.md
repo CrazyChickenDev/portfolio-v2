@@ -2,7 +2,7 @@
 date: '2020-05-19'
 title: 'CPE461 CGPA Calculator'
 github: 'https://github.com/CrazyChickenDev/CPE461-CGPA-Calculator'
-external: ''
+external: 'https://github.com/CrazyChickenDev/CPE461-CGPA-Calculator'
 tech:
   - Python
   - VSCode
