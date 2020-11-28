@@ -155,8 +155,8 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Daniel, a computer engineer and cyber-security researcher based in Benin
-              City, NG.
+              Hello! I'm Daniel, a computer engineer and{' '}
+              <a href="https://0x00ccsec.co">cyber-security researcher</a> based in Benin City, NG.
             </p>
 
             <p>
