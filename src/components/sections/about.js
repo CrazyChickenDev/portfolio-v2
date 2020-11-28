@@ -176,7 +176,7 @@ const About = () => {
               worked on a wide variety of interesting and meaningful projects as an Internet
               Security Analyst. Some things you'll likely find me doing are working and creating
               things with microcontrollers such as arduinos and implementing IoT in components,
-              playing video games,
+              playing video games,{' '}
               <a href="https://instagram.com/illusiondecals">customising gadgets</a> and finding
               vulnerabilities in systems. A goal of mine is to build products that provide
               pixel-perfect, user-friendly, security efficient, performant experiences. I go by the
