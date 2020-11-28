@@ -1,14 +1,16 @@
 ---
-date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+date: '2020-11-27'
+title: 'Technical Blog'
+github: 'https://github.com/CrazyChickenDev/Blog'
+external: 'https://0x00ccsec.co'
 tech:
-  - Algolia
-  - WordPress
-  - PHP
-company: 'Upstatement'
+  - Gatsby.Js
+  - Netlify
+  - JavaScript
+  - CSS
+  - Yarn
+company: '0x00CCSec'
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+A Technical Blog built with [Gatsby.Js Starter](https://github.com/dospolov/gatsby-starter-blog-and-cv) and deployed on Netlify. [Inspired by the gatsby-starter-Lumen](https://github.com/alxshelepenok/gatsby-starter-lumen).
