@@ -8,6 +8,7 @@ tech:
   - VSCode
   - Linux OS
   - Bash
+company: 'Personal'
 showInProjects: true
 ---
 

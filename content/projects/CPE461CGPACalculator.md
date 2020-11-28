@@ -6,7 +6,7 @@ external: 'https://github.com/CrazyChickenDev/CPE461-CGPA-Calculator'
 tech:
   - Python
   - VSCode
-company: 'Apple'
+company: 'UNIBEN'
 showInProjects: true
 ---
 
