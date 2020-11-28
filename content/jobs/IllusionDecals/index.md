@@ -1,7 +1,7 @@
 ---
 date: '2018-02-016'
 title: 'Co-Founder'
-company: 'IllusionDec.'
+company: 'Illusion'
 location: 'Benin City, NG'
 range: 'February 2018 - Present 2020'
 url: 'https://illusiondecals.disha.page/'
