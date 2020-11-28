@@ -153,17 +153,17 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Daniel, a computer engineer and cyber-security analyst based in Benin City,
-              NG.
+              Hello! I'm Daniel, a computer engineer and cyber-security researcher based in Benin
+              City, NG.
             </p>
 
             <p>
               I'm an open-source enthusiast with an interest in front-end web development and
               currently a student from Nigeria. An ethical hacker, pentester, red-teamer and a
-              self-taught cyber-security analyst who loves being offensive. I have a profound
-              passion for programming, security researching, robotics and hardware. I enjoy creating
-              things that live both on the internet and in reality, whether that be websites,
-              applications, scripts, embedded systems or anything in between.
+              self-taught cyber-security researcher who loves being offensive. I have a profound
+              passion for programming, security researching, robotics, IoT and hardware. I enjoy
+              creating things that live both on the internet and in reality, whether that be
+              websites, applications, scripts, embedded systems or anything in between.
             </p>
 
             <p>
