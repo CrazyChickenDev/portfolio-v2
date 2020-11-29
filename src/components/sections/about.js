@@ -138,13 +138,15 @@ const About = () => {
     'React',
     'Python',
     'Node.js',
-    'Pentesting',
+    'Snort',
     'PHP',
     'Linux',
     'Git',
     'Jekyll',
     'Git-Pages',
     'Gatsby.js',
+    'Raspberry Pi',
+    'Metasploit',
   ];
 
   return (
