@@ -158,7 +158,8 @@ const About = () => {
           <div>
             <p>
               Hello! I'm Daniel, a computer engineer and{' '}
-              <a href="https://0x00ccsec.co">cyber-security researcher</a> based in Benin City, NG.
+              <a href="https://github.com/CrazyChickenDev">cyber-security researcher</a> based in
+              Benin City, NG.
             </p>
 
             <p>
