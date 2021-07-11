@@ -186,7 +186,7 @@ const About = () => {
               listening to Jack Rhysiders' <a href= "https://darknetdiaries.com" target="_blank">Darknet Diaries</a> and finding
               vulnerabilities in systems. A goal of mine is to build products that provide
               pixel-perfect, user-friendly, security efficient, performant experiences. I go by the
-              alter ego '<a href="https://t.me/CrazyChickendev" target="_blank">CrazyChickenDev</a> or{' '}
+              alter-ego <a href="https://t.me/CrazyChickendev" target="_blank">'CrazyChickenDev</a> or{' '}
               <a href="https://wa.me/message/Y4M4QSP6P3TPC1" target="_blank">0x00CCSec'</a>.
             </p>
 
