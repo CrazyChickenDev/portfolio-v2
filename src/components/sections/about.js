@@ -157,15 +157,16 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Daniel, a computer engineer and{' '}
-              <a href="https://github.com/CrazyChickenDev">cyber-security researcher</a> based in
+              Hello! I'm Daniel, a computer engineer, 
+              <a href="https://bit.ly/earn750k-monthly-affiliate" target="_blank">affiliate marketer</a> and{' '}
+              <a href="https://github.com/CrazyChickenDev" target="_blank">cyber-security researcher</a> based in
               Benin City, NG.
             </p>
 
             <p>
               I'm an open-source enthusiast with an interest in front-end web development and
               currently a student from Nigeria. An ethical hacker, pentester, red-teamer and a
-              self-taught cyber-security researcher who loves being offensive. I have a profound
+              self-taught cyber-security researcher who loves going offensive. I have a profound
               passion for programming, security researching, robotics, IoT and hardware. I enjoy
               creating things that live both on the internet and in reality, whether that be
               websites, applications, scripts, embedded systems or anything in between.
@@ -174,17 +175,19 @@ const About = () => {
             <p>
               Shortly after I graduated Highschool, I became overly engrossed in the cyber-security
               space and the vast amount of knowledge it holds. I decided to enrol for computer
-              engineering at <a href="https://www.uniben.edu"> University of Benin (UNIBEN)</a>, I
-              joined the developer team at <a href="https://www.muzzlab.com"> Muzzlab </a> where I
+              engineering at <a href="https://www.uniben.edu" target="_blank"> University of Benin (UNIBEN)</a>, I
+              joined the developer team at <a href="https://www.muzzlab.com" target="_blank"> Muzzlab </a> where I
               worked on a wide variety of interesting and meaningful projects as an Internet
               Security Analyst. Some things you'll likely find me doing are working and creating
               things with microcontrollers such as arduinos and implementing IoT in components,
               playing video games,{' '}
-              <a href="https://instagram.com/illusiondecals">customising gadgets</a> and finding
+              <a href="https://illusiondecals.com" target="_blank">customising gadgets</a>,{' '}
+              <a href="https://bit.ly/earn750k-monthly-affiliate" target="_blank">making money via affiliate marketing</a>, 
+              listening to Jack Rhysiders' <a href= "https://darknetdiaries.com" target="_blank">Darknet Diaries</a> and finding
               vulnerabilities in systems. A goal of mine is to build products that provide
               pixel-perfect, user-friendly, security efficient, performant experiences. I go by the
-              alter ego '<a href="https://t.me/CrazyChickendev">CrazyChickenDev</a> or{' '}
-              <a href="https://wa.me/message/Y4M4QSP6P3TPC1">0x00CCSec'</a>.
+              alter ego '<a href="https://t.me/CrazyChickendev" target="_blank">CrazyChickenDev</a> or{' '}
+              <a href="https://wa.me/message/Y4M4QSP6P3TPC1" target="_blank">0x00CCSec'</a>.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
