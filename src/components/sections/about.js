@@ -181,8 +181,8 @@ const About = () => {
               Security Analyst. Some things you'll likely find me doing are working and creating
               things with microcontrollers such as arduinos and implementing IoT in components,
               playing video games,{' '}
-              <a href="https://illusiondecals.com" target="_blank">customising gadgets</a>,{' '}
-              <a href="https://bit.ly/earn750k-monthly-affiliate" target="_blank">making money via affiliate marketing</a>, 
+              <a href="https://illusiondecals.com" target="_blank">customising gadgets</a>,{' '}making money via 
+              <a href="https://bit.ly/earn750k-monthly-affiliate" target="_blank">affiliate marketing</a>, 
               listening to Jack Rhysiders' <a href= "https://darknetdiaries.com" target="_blank">Darknet Diaries</a> and finding
               vulnerabilities in systems. A goal of mine is to build products that provide
               pixel-perfect, user-friendly, security efficient, performant experiences. I go by the
