@@ -143,9 +143,9 @@ const About = () => {
     'Linux',
     'Git',
     'Jekyll',
-    'Git-Pages',
-    'Gatsby.js',
-    'Raspberry Pi',
+    'Django',
+    'Canva',
+    'Adobe Illustrator',
     'Metasploit',
   ];
 
