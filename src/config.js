@@ -16,7 +16,7 @@ module.exports = {
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/crazychickendev',
+      url: 'https://www.instagram.com/thecanva_shogun',
     },
     {
       name: 'Twitter',
