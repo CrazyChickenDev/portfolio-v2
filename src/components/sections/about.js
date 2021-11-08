@@ -138,7 +138,6 @@ const About = () => {
     'React',
     'Python',
     'Node.js',
-    'Snort',
     'PHP',
     'Linux',
     'Git',
@@ -146,7 +145,6 @@ const About = () => {
     'Django',
     'Canva',
     'Adobe Illustrator',
-    'Metasploit',
   ];
 
   return (
@@ -157,9 +155,9 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Daniel, a computer engineer,{' '}
-              <a href="https://bit.ly/earn750k-monthly-affiliate" target="_blank">affiliate marketer</a> and{' '}
-              <a href="https://github.com/CrazyChickenDev" target="_blank">cyber-security researcher</a> based in
+              Hello! I'm Daniel, a computer engineer/software developer,{' '}
+              <a href="https://githubcampus.expert/CrazyChickenDev/" target="_blank">gitHub campus expert</a> and{' '}
+              <a href="https://linkedin/in/nwaobidaniel/" target="_blank">cyber-security researcher</a> based in
               Benin City, NG.
             </p>
 
@@ -167,7 +165,7 @@ const About = () => {
               I'm an open-source enthusiast with an interest in front-end web development and
               currently a student from Nigeria. An ethical hacker, pentester, red-teamer and a
               self-taught cyber-security researcher who loves going offensive. I have a profound
-              passion for programming, security researching, robotics, IoT and hardware. I enjoy
+              passion for programming, graphics designing, security researching, robotics, IoT and hardware. I enjoy
               creating things that live both on the internet and in reality, whether that be
               websites, applications, scripts, embedded systems or anything in between.
             </p>
@@ -178,11 +176,10 @@ const About = () => {
               engineering at <a href="https://www.uniben.edu" target="_blank"> University of Benin (UNIBEN)</a>, I
               joined the developer team at <a href="https://www.muzzlab.com" target="_blank"> Muzzlab </a> where I
               worked on a wide variety of interesting and meaningful projects as an Internet
-              Security Analyst. Some things you'll likely find me doing are working and creating
+              Security Analyst, then later applied as a Graphics and Web design Intern. Some things you'll likely find me doing are working and creating
               things with microcontrollers such as arduinos and implementing IoT in components,
-              playing video games,{' '}
-              <a href="https://illusiondecals.com" target="_blank">customising gadgets</a>,{' '}making money via 
-              <a href="https://bit.ly/earn750k-monthly-affiliate" target="_blank">affiliate marketing</a>, 
+              playing video games,{' '}creating <a href="https://instagram.com/thecanva_shogun" target="_blank">awesome design contents</a> for brands,{' '}
+              <a href="https://illusiondecals.com" target="_blank">customising gadgets</a>,{' '}making money via affiliate marketing, 
               listening to Jack Rhysiders' <a href= "https://darknetdiaries.com" target="_blank">Darknet Diaries</a> and finding
               vulnerabilities in systems. A goal of mine is to build products that provide
               pixel-perfect, user-friendly, security efficient, performant experiences. I go by the

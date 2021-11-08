@@ -6,6 +6,7 @@ external: 'https://github.com/CrazyChickenDev/CPE461-CGPA-Calculator'
 tech:
   - Python
   - VSCode
+  - Parrot OS
 company: 'UNIBEN'
 showInProjects: true
 ---

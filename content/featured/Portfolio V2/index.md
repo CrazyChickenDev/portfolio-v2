@@ -1,9 +1,9 @@
 ---
 date: '2'
-title: 'Portfolio v2'
+title: 'Portfolio V2'
 cover: './demo.png'
 github: 'https://github.com/CrazyChickenDev/portfolio-v2'
-external: 'https://nwaobidaniel.me/'
+external: 'https://nwaobidaniel.netlify.app/'
 tech:
   - Gatsby JS
   - VSCode

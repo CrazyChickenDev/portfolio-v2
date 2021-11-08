@@ -1,13 +1,16 @@
 ---
-date: '3'
-title: 'GitHubProfile'
-cover: './profile.png'
+date: '2020-04-10'
+title: 'GitHub Readme Profile'
 github: 'https://github.com/CrazyChickenDev/CrazyChickenDev'
 external: 'https://github.com/CrazyChickenDev'
+ios: ''
+android: ''
 tech:
-  - Git
   - Markdown
   - VSCode
+  - GitHub
+  - Git
+company: 'Personal'
 showInProjects: true
 ---
 

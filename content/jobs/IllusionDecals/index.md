@@ -8,5 +8,5 @@ url: 'https://illusiondecals.disha.page/'
 ---
 
 - Collaborated with a small team of colleagues and friends to spearhead a new brand that makes really awesome gadget customisations in Nigeria
-- I design and produce customized gadget skins for clients.
+- I designed and produced customized gadget skins for clients.
 - Effectively makes sure client desires and needs are met in accordance to preferences
