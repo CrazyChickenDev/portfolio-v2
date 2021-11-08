@@ -155,9 +155,9 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Daniel, a computer engineer/software developer,{' '}
-              <a href="https://githubcampus.expert/CrazyChickenDev/" target="_blank">gitHub campus expert</a> and{' '}
-              <a href="https://linkedin/in/nwaobidaniel/" target="_blank">cyber-security researcher</a> based in
+              Hello! I'm Daniel, a Computer Engineer/Software Developer,{' '}
+              <a href="https://githubcampus.expert/CrazyChickenDev/" target="_blank">GitHub Campus Expert</a> and{' '}
+              <a href="https://linkedin/in/nwaobidaniel/" target="_blank">Cyber-security Researcher</a> based in
               Benin City, NG.
             </p>
 

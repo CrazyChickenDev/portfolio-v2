@@ -1,7 +1,7 @@
 ---
 date: '2021-04-19'
 title: 'Graphics and Web Design Intern'
-company: 'Muzzlabs'
+company: 'Muzzlab Technologies'
 location: 'Benin, NG'
 range: 'April 2021 - September 2021'
 url: 'https://www.muzzlab.com/'

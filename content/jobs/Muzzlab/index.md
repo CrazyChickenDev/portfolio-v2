@@ -1,7 +1,7 @@
 ---
 date: '2018-05-14'
 title: 'Internet Security Analyst'
-company: 'Muzzlabs'
+company: 'Muzzlab Technologies'
 location: 'Benin, NG'
 range: 'May 2018 - June 2020'
 url: 'https://www.muzzlab.com/'
