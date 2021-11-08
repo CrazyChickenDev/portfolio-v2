@@ -3,7 +3,7 @@ date: '2019-11-14'
 title: 'Product Lead'
 company: 'Muzzware Inc.'
 location: 'Benin, NG'
-range: 'Novemver 2019 - Present 2021'
+range: 'Novemver 2019 - Present'
 url: 'https://muzzware.com/'
 ---
 

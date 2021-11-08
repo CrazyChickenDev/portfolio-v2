@@ -3,7 +3,7 @@ date: '2018-02-016'
 title: 'Co-Founder'
 company: 'Illusion Decals'
 location: 'Benin City, NG'
-range: 'February 2018 - Present 2021'
+range: 'February 2018 - Present'
 url: 'https://illusiondecals.com/'
 ---
 

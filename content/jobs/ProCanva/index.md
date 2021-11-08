@@ -3,7 +3,7 @@ date: '2018-04-11'
 title: 'Freelance Canva Designer'
 company: 'Canva'
 location: 'University of Benin'
-range: 'April 2018 - Present 2021'
+range: 'April 2018 - Present'
 url: 'https://canva.com/'
 ---
 
