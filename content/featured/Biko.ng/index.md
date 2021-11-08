@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'Biko Ecommerce Website'
-cover: './biko.png'
+cover: './profile.png'
 github: 'https://github.com/CrazyChickenDev/'
 external: 'https://biko.ng'
 tech:
