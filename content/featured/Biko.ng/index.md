@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '2'
 title: 'Biko Ecommerce Website'
 cover: './profile.png'
 github: 'https://github.com/CrazyChickenDev/'
