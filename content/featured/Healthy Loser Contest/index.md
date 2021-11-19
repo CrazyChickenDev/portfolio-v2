@@ -1,12 +1,10 @@
 ---
-date: '5'
-title: 'Biko Ecommerce Website'
-cover: './biko.png'
-github: 'https://github.com/CrazyChickenDev/'
-external: 'https://biko.ng'
+date: '4'
+title: 'Healthy Loser Competition Website'
+cover: './health.png'
+github: 'https://github.com/WisperHQ/wisper-isp'
+external: 'https://wisper.ng'
 tech:
-  - React
-  - Node.Js
   - VSCode
   - HTML/CSS
   - JavaScript
