@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Muzzlab Company Website'
-cover: './passlist.png'
+cover: './muzzlab.png'
 github: 'https://github.com/MuzzLab'
 external: 'https://muzzlab.com/'
 tech:
