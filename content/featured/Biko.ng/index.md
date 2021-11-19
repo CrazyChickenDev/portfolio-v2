@@ -1,16 +1,16 @@
 ---
-date: '3'
-title: 'Portfolio V2'
-cover: './demo.png'
-github: 'https://github.com/CrazyChickenDev/portfolio-v2'
-external: 'https://nwaobidaniel.netlify.app/'
+date: '2'
+title: 'Biko Ecommerce Website'
+cover: './profile.png'
+github: 'https://github.com/CrazyChickenDev/'
+external: 'https://biko.ng'
 tech:
-  - Gatsby JS
+  - React
+  - Node.Js
   - VSCode
-  - Netlify
-  - NPM
+  - HTML/CSS
+  - JavaScript
 showInProjects: true
 ---
 
-A Second iteration of my personal website built with Gatsby.JS and deployed on Netlify. Built from the v4 portfolio
-designed by [Brittany Chiang](https://github.com/bchiang7).
+I helped build Biko.ng, a website where business owners can create and manage their online store without writing a single line of code and a fast growing startup in West-Africa. The process is kept simple and all setup can be done in less than 10mins. Biko.ng also takes vital steps to ensure that managing an online store can be done from any place and with little or no stress.
