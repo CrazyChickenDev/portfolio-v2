@@ -11,4 +11,4 @@ tech:
 showInProjects: true
 ---
 
-I helped build Biko.ng, a website where business owners can create and manage their online store without writing a single line of code and a fast growing startup in West-Africa. The process is kept simple and all setup can be done in less than 10mins. Biko.ng also takes vital steps to ensure that managing an online store can be done from any place and with little or no stress.
+ Core member of the team that built and designed the official Wisper Company website, which also includes the mobile mvno website. Wisper Technologies offer super fast internet for homes and businesses at affordable rates.
