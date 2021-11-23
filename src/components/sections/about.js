@@ -141,10 +141,8 @@ const About = () => {
     'PHP',
     'Linux',
     'Git',
-    'Jekyll',
-    'Django',
     'Canva',
-    'Adobe Illustrator',
+    'Adobe PhotoShop',
   ];
 
   return (
