@@ -13,4 +13,4 @@ tech:
 showInProjects: true
 ---
 
-I was part of the team that built the official Muzzlab Coompany Website; Muzzlab Technologies is a digital development agency that partners with Startups, entrepreneurs and small businesses to turn their product dreams and ideas into a technological reality that meets the market standard. They plan, build, launch and scale successful apps.
+I was part of the team that built the official Muzzlab Company Website; Muzzlab Technologies is a digital development agency that partners with Startups, entrepreneurs and small businesses to turn their product dreams and ideas into a technological reality that meets the market standard. They plan, build, launch and scale successful apps.
