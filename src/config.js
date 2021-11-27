@@ -11,10 +11,6 @@ module.exports = {
       url: 'https://www.linkedin.com/in/nwaobidaniel',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/crazychickendev',
-    },
-    {
       name: 'Instagram',
       url: 'https://www.instagram.com/thecanva_shogun',
     },
