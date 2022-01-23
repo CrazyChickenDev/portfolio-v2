@@ -5,7 +5,7 @@
   Portfolio-v2
 </h1>
 <p align="center">
-  The second iteration of <a href="https://crazychickendev.netlify.app" target="_blank">nwaobidaniel.netlify.app</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  The second iteration of <a href="https://nwaobidaniel.netlify.app" target="_blank">nwaobidaniel.netlify.app</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 <p align="center">
   Previous iteration:
