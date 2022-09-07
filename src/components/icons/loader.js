@@ -27,4 +27,3 @@ const IconLoader = () => (
 );
 
 export default IconLoader;
-
