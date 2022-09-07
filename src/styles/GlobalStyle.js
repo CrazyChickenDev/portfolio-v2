@@ -12,7 +12,7 @@ const GlobalStyle = createGlobalStyle`
     --light-navy: #FFFFFF;
     --lightest-navy: #FFFFFF;
     --navy-shadow: rgba(2, 12, 27, 0.7);
-    --slate: #FFFFFF;
+    --slate: #000000;
     --light-slate: #2C2727;
     --lightest-slate: #3E3939;
     --white: #e6f1ff;
