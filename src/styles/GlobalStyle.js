@@ -10,7 +10,7 @@ const GlobalStyle = createGlobalStyle`
     --dark-navy: #F6F4F4;
     --navy: #F6F4F4;
     --light-navy: #000000;
-    --lightest-navy: #000000;
+    --lightest-navy: #FFFFFF;
     --navy-shadow: rgba(255, 120, 32, 0.7);
     --slate: #000000;
     --light-slate: #2C2727;
