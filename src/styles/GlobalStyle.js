@@ -10,11 +10,11 @@ const GlobalStyle = createGlobalStyle`
     --dark-navy: #F6F4F4;
     --navy: #F6F4F4;
     --light-navy: #FFFFFF;
-    --lightest-navy: #2C2727;
+    --lightest-navy: #FFFFFF;
     --navy-shadow: rgba(2, 12, 27, 0.7);
-    --slate: #8892b0;
-    --light-slate: #a8b2d1;
-    --lightest-slate: #ccd6f6;
+    --slate: #FFFFFF;
+    --light-slate: #2C2727;
+    --lightest-slate: #3E3939;
     --white: #e6f1ff;
     --green: #FF7517;
     --green-tint: rgba(255, 135, 57, 0.1);
