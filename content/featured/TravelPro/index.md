@@ -2,9 +2,8 @@
 date: '2'
 title: 'TravelPro Website/Blog'
 cover: './illusion.png'
-github: ''
+github: 'https://blog.travelpro.ng'
 external: 'https://travelpro.ng'
-external: 'https://blog.travelpro.ng'
 tech:
   - WordPress
   - HTML/CSS

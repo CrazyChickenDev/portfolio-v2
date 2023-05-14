@@ -2,9 +2,8 @@
 date: '4'
 title: 'Peca Finance Website/Blog'
 cover: './health.png'
-github: ''
+github: 'https://blog.getpeca.com'
 external: 'https://getpeca.com'
-external: 'https://blog.getpeca.com'
 tech:
   - Wordpress
   - HTML/CSS
