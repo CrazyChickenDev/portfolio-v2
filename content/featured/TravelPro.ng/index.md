@@ -1,5 +1,5 @@
 ---
-date: '7'
+date: ''
 title: 'TravelPro Website'
 cover: './demo.png'
 github: ' '
