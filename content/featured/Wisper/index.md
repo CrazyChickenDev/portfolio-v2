@@ -5,7 +5,8 @@ cover: './wisper.png'
 github: 'https://github.com/WisperHQ/wisper-isp'
 external: 'https://wisper.ng'
 tech:
-  - VSCode
+  - WordPress
+  - React
   - HTML/CSS
   - JavaScript
 showInProjects: true

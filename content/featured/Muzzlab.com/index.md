@@ -5,10 +5,9 @@ cover: './muzzlab.png'
 github: 'https://github.com/MuzzLab'
 external: 'https://muzzlab.com/'
 tech:
-  - VSCode
+  - Wordpress
   - JavaScript
   - HTML/CSS
-  - Linux
   - Node.Js
 showInProjects: true
 ---

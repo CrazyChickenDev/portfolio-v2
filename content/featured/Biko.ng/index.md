@@ -7,7 +7,7 @@ external: 'https://biko.ng'
 tech:
   - React
   - Node.Js
-  - VSCode
+  - WordPress
   - HTML/CSS
   - JavaScript
 showInProjects: true

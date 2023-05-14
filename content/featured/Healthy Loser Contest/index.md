@@ -5,7 +5,7 @@ cover: './health.png'
 github: ''
 external: 'https://healthylosercontest.com'
 tech:
-  - VSCode
+  - Wordpress
   - HTML/CSS
   - JavaScript
 showInProjects: true
