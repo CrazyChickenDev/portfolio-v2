@@ -153,36 +153,29 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Daniel, a Computer Engineer,Web Developer,Designer{' '}
+              I'm a Computer Engineer,Web Developer,Designer,{' '}
               <a href="https://githubcampus.expert/CrazyChickenDev/" target="_blank">GitHub Campus Expert</a> and{' '}
-              <a href="https://linkedin/in/nwaobidaniel/" target="_blank">Cyber-security Researcher</a> based in
+              <a href="https://linkedin/in/nwaobidaniel/" target="_blank">Web3 Enthusiast</a> based in
               Benin City, NG.
             </p>
 
             <p>
-              I'm an open-source enthusiast with an interest in front-end web development and
-              currently a student from Nigeria. An ethical hacker, pentester, red-teamer and a
-              self-taught cyber-security researcher who loves going offensive. I have a profound
-              passion for programming, graphics designing, security researching, robotics, IoT and hardware. I enjoy
+              I'm an open-source enthusiast with an interest in web development and design.
+              I have a profound passion for programming, graphics design, web3, security researching, robotics, IoT and hardware and I enjoy
               creating things that live both on the internet and in reality, whether that be
               websites, applications, scripts, embedded systems or anything in between.
             </p>
 
             <p>
-              Shortly after I graduated Highschool, I became overly engrossed in the cyber-security
-              space and the vast amount of knowledge it holds. I decided to enrol for computer
-              engineering at <a href="https://www.uniben.edu" target="_blank"> University of Benin (UNIBEN)</a>, I
-              joined the developer team at <a href="https://www.muzzlab.com" target="_blank"> Muzzlab </a> where I
-              worked on a wide variety of interesting and meaningful projects as an Internet
-              Security Analyst, then later applied as a Graphics and Web design Intern. Some things you'll likely find me doing are working and creating
-              things with microcontrollers such as arduinos and implementing IoT in components,
-              playing video games,{' '}creating <a href="https://instagram.com/thecanva_shogun" target="_blank">awesome design contents</a> for brands,{' '}
+              I studied computer engineering at <a href="https://www.uniben.edu" target="_blank"> University of Benin (UNIBEN)</a> and I
+              joined the developer team at <a href="https://www.muzzlab.com" target="_blank"> Muzzlab </a> where I worked on a wide variety 
+              of interesting and meaningful projects as a WordPress Developer/Design Intern. Some things you'll likely find me doing are working and creating
+              things with microcontrollers such as arduinos and implementing IoT in components, building custom PCs, playing video games,{' '}creating <a href="https://instagram.com/crazychickentech" target="_blank">tech contents</a> for brands,{' '}
               <a href="https://illusiondecals.com" target="_blank">customising gadgets</a>,{' '}making money via affiliate marketing, 
               listening to Jack Rhysiders' <a href= "https://darknetdiaries.com" target="_blank">Darknet Diaries</a> and finding
               vulnerabilities in systems. A goal of mine is to build products that provide
               pixel-perfect, user-friendly, security efficient, performant experiences. I go by the
-              alter-ego <a href="https://t.me/CrazyChickendev" target="_blank">'CrazyChickenDev</a> or{' '}
-              <a href="https://wa.me/message/Y4M4QSP6P3TPC1" target="_blank">0x00CCSec'</a>.
+              alter-ego <a href="https://t.me/CrazyChickendev" target="_blank">'CrazyChickenDev</a>
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
