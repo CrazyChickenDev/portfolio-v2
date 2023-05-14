@@ -3,7 +3,7 @@ date: '2021-12-21'
 title: 'DAO Lead'
 company: 'Harmony'
 location: 'Benin, NG (Remote)'
-range: 'June 2023'
+range: 'December 2022 - June 2023'
 url: 'https://harmony.one/'
 ---
 

@@ -3,7 +3,7 @@ date: '2020-10-23'
 title: 'GitHub Campus Expert'
 company: 'GitHub'
 location: 'Benin City, NG Remote'
-range: 'October 2022'
+range: 'October 2020 - 2022'
 url: 'https://githubcampus.expert/CrazyChickenDev/'
 ---
 
