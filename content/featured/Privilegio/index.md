@@ -1,5 +1,5 @@
 ---
-date: '10'
+date: ''
 title: 'Privilegio Website'
 cover: './demo.png'
 github: ' '

@@ -1,6 +1,6 @@
 ---
-date: '11'
-title: 'TravelPro Website'
+date: ''
+title: 'Peca Finance Website'
 cover: './demo.png'
 github: ' '
 external: 'https://getpeca.com/'

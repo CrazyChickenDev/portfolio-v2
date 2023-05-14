@@ -1,5 +1,5 @@
 ---
-date: '13'
+date: ''
 title: 'Employability Africa'
 cover: './demo.png'
 github: ' '

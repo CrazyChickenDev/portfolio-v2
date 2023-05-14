@@ -1,5 +1,5 @@
 ---
-date: '12'
+date: ''
 title: 'Peca Finance Website'
 cover: './demo.png'
 github: ' '
