@@ -151,7 +151,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I'm a Computer Engineer,Web Developer,Designer,{' '}
+              I'm a Computer Engineer, Web Developer, Designer,{' '}
               <a href="https://githubcampus.expert/CrazyChickenDev/" target="_blank">GitHub Campus Expert</a> and{' '}
               <a href="https://linkedin/in/nwaobidaniel/" target="_blank">Web3 Enthusiast</a> based in
               Benin City, NG.
