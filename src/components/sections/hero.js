@@ -47,9 +47,9 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Nwaobi Daniel.</h2>;
-  const three = <h3 className="big-heading">Eat Sleep Hack Repeat.</h3>;
+  const one = <h1>Hello, my name is</h1>;
+  const two = <h2 className="big-heading">Daniel Nwaobi.</h2>;
+  const three = <h3 className="big-heading">Eat Sleep Code Repeat.</h3>;
   const four = (
     <p>
       Computers have been keeping me awake for as long as I can remember. It all started with a
