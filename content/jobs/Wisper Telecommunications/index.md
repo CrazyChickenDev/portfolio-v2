@@ -2,8 +2,8 @@
 date: '2021-10-19'
 title: 'Graphics and Web Designer'
 company: 'Wisper Telecommunication Limited'
-location: 'Lagos, NG (Remote)'
-range: 'October 2021 - Present'
+location: 'Benin City, NG (Remote)'
+range: 'October 2021 - January 2022'
 url: 'https://wisper.ng/'
 ---
 
