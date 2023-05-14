@@ -133,15 +133,13 @@ const About = () => {
   }, []);
 
   const skills = [
+    'WordPress',
     'JavaScript',
     'HTML5 & CSS3',
     'React',
-    'Python',
-    'Node.js',
-    'PHP',
     'Linux',
     'Git',
-    'Canva',
+    'Figma',
     'Adobe PhotoShop',
   ];
 
@@ -178,7 +176,7 @@ const About = () => {
               alter-ego <a href="https://t.me/CrazyChickendev" target="_blank">'CrazyChickenDev</a>
             </p>
 
-            <p>Here are a few technologies I've been working with recently:</p>
+            <p>Here are a few tech stack I've been working with recently:</p>
           </div>
 
           <ul className="skills-list">
