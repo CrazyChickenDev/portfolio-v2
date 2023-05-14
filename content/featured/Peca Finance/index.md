@@ -1,9 +1,10 @@
 ---
 date: '4'
-title: 'Healthy Loser Contest Website'
+title: 'Peca Finance Website/Blog'
 cover: './health.png'
 github: ''
-external: 'https://healthylosercontest.com'
+external: 'https://getpeca.com'
+external: 'https://blog.getpeca.com'
 tech:
   - Wordpress
   - HTML/CSS
