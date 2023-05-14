@@ -7,7 +7,7 @@ module.exports = {
       'A computer engineer based in Benin City, NG specializing in building (and occasionally researching) exceptional websites, softwares, scripts and everything in between.',
     siteUrl: 'https://nwaobidaniel.me', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@0x00CCSec',
+    twitterUsername: '@crazychickendev',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

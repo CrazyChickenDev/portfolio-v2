@@ -12,11 +12,11 @@ module.exports = {
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/thecanva_shogun',
+      url: 'https://www.instagram.com/crazychickentech',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/0x00CCSec',
+      url: 'https://twitter.com/crazychickendev',
     },
   ],
 
