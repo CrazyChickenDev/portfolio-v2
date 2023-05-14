@@ -11,4 +11,5 @@ tech:
 showInProjects: true
 ---
 
-Built and designed the official website for TravelPro. The company landing page was built off client requests and was previously maintained by me.
+Built and designed the official website for TravelPro. The company landing page was built off client requests and was previously maintained by me. TravelPro is a
+flight booking and visa acquisition agency based in Nigeria.

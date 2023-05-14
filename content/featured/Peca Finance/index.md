@@ -11,4 +11,4 @@ tech:
 showInProjects: true
 ---
 
-I was part of the team that built the healthy loser contest website which was held in Canada. The website aided easy registration and access to general updates and information on the status of the contest at each tier.
+I built the Officuial Peca Finance Website and company Blog. The website aided easy acquisition of over 500 early users in its mvp stage and access to general updates and information on the status of the Product.

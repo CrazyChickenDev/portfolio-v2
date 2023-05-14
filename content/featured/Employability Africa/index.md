@@ -12,4 +12,5 @@ tech:
 showInProjects: true
 ---
 
-A Second iteration of Employability Africa's Official website.Built and Designed with WordPress.
+A Second iteration of Employability Africa's Official website. Built and Designed with WordPress. Employability Africa helps Employers connect with graduates in different
+sectors of the industry.

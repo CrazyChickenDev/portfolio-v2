@@ -12,4 +12,4 @@ tech:
 showInProjects: true
 ---
 
-I the official website of Privilegio, a website that offers a smart way to manage tuition payments and funding for international students.
+I built and designed the official website of Privilegio, a website that offers a smart way to manage tuition payments and funding for international students.
